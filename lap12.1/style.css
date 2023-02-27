@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/la.jpg");
+  width: 100%;
+  height: 600px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/chicago.jpg");
+  width: 100%;
+  height: 600px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/ny.jpg");
+  width: 100%;
+  height: 600px;
+}
